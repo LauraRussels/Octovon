@@ -1,0 +1,13 @@
+name: Octovon
+version: 1.0.0
+authors:
+  - Biolumines
+  - LauraRussels
+main: net.octovon.Octovon
+commands:
+  clockin:
+    usage: /<command>
+    description: Start work period.
+  clockout:
+    usage: /<commmand>
+    description: Stop work period.

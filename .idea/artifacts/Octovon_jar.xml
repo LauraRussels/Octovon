@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Octovon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Octovon_jar</output-path>
+    <root id="archive" name="Octovon.jar">
+      <element id="module-output" name="Octovon" />
+    </root>
+  </artifact>
+</component>
